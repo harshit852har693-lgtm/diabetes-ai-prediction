@@ -1,4 +1,5 @@
 # 🩺 Diabetes AI — Risk Prediction & Health Assistant
+![Diabetes AI Dashboard](website.png)
 
 An AI-powered web application for diabetes risk prediction and health awareness, built with **React, FastAPI, and Machine Learning**.
 
